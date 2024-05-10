@@ -1,0 +1,13 @@
+.message-box{
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    resize: none;
+}
+
+.card-body{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
